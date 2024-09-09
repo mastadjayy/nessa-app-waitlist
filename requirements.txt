@@ -1,0 +1,11 @@
+asgiref==3.8.1
+crispy-tailwind==1.0.3
+Django==4.2.15
+django-appconf==1.0.6
+django-compressor==4.5.1
+django-crispy-forms==2.3
+django-htmx==1.19.0
+rcssmin==1.1.2
+rjsmin==1.2.2
+sqlparse==0.5.1
+typing_extensions==4.12.2
